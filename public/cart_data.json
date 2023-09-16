@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+      "image": "https://i.ibb.co/NtH1mnZ/Rectangle-2-2.png",
+      "title": "Introduction to C Programming",
+      "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 15000,
+      "credits": 1
+    },
+    {
+        "id": 2,
+      "image": "https://i.ibb.co/0jSK1nJ/Rectangle-2-3.png",
+      "title": "Introduction to Algorithms",
+      "paragraph": "Experience city living at its finest. This stylish loft is in the heart of downtown,it vry different close to restaurants and nightlife.",
+      "price": 25000,
+      "credits": 2
+    },
+    {
+        "id": 3,
+      "image": "https://i.ibb.co/V9dzmrq/Rectangle-2-4.png",
+      "title": "Introduction to C++ for DSA",
+      "paragraph": "Relax by the sea in this charming cottage.so you can Enjoy stunning sunsets and coastal walks right from your doorstep.",
+      "price": 10000,
+      "credits": 9
+    },
+    {
+        "id": 4,
+      "image": "https://i.ibb.co/VpPFKKQ/Rectangle-2-5.png",
+      "title": "Basic Data Structures",
+      "paragraph": "Experience country living in this spacious farmhouse. Perfect for a family vacation with a large backyard and farm animals.",
+      "price": 35000,
+      "credits": 5
+    },
+    {
+        "id": 5,
+      "image": " https://i.ibb.co/vLpxCpy/Rectangle-2.png",
+      "title": "Introduction to OOP Python",
+      "paragraph": "Stay in the heart of the city in this compact studio apartment. Ideal for solo travelers or couples.",
+      "price": 19000,
+      "credits": 5
+    },
+    {
+        "id": 6,
+      "image": "https://i.ibb.co/fNGVdsH/Rectangle-3.png",
+      "title": "Software Engineering",
+      "paragraph": "Hit the slopes in style with this alpine ski chalet. Perfect for winter sports enthusiasts with easy access to ski trails.",
+      "price": 23000,
+      "credits": 2
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/SwQygh5/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "paragraph": "Hit the slopes in style with this alpine ski chalet. Perfect for winter sports enthusiasts with easy access to ski trails.",
+        "price": 35000,
+        "credits": 5
+      },
+    {
+        "id": 8,
+      "image": " https://i.ibb.co/6gC3ygm/Rectangle-2-1.png",
+      "title": "Database (MySQL)",
+      "paragraph": "Step back in time with this historic townhouse. Located in the old town, it's perfect for history buffs.",
+      "price":19000,
+      "credits": 5
+    },
+    {
+        "id": 9,
+      "image": "https://i.ibb.co/sJdwJgZ/Rectangle-2-6.png",
+      "title": "Problem-Solving Part",
+      "paragraph": "Unwind by the lake in this peaceful retreat. Enjoy boating, fishing, and beautiful sunrises.",
+      "price": 23000,
+      "credits": 2
+    }
+  ]
+  
